@@ -1,7 +1,7 @@
 {
 	"name": "gner",
-	"website": "https://github.com/jpillora/cloud-torrent",
-	"repository": "https://github.com/jpillora/cloud-torrent",
+	"website": "https://github.com/gamerstt/Actsg",
+	"repository": "https://github.com/gamerstt/Actsg",
 	"env": {
   "AUTH": {
 			"description": "Optional HTTP authentication in the form user:password",
